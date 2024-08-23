@@ -35,7 +35,7 @@ To run this Python script:
    Ensure you have Python installed. Then, execute the script by running:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 3. **Follow the prompts**:
@@ -70,7 +70,7 @@ That's all for today, come again later!
 
 ## Project Structure
 
-- `app.py`: The main Python script containing the functions and the user interaction logic.
+- `main.py`: The main Python script containing the functions and the user interaction logic.
 
 ## Contributing
 
