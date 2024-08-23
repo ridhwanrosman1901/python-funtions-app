@@ -45,8 +45,8 @@ To run this Python script:
 ## Example Output
 
 ```
-What is your name? Alice
-Hello Alice, welcome to my app.
+What is your name? Hubert Blaine Wolfeschlegelsteinhausenbergerdorff Sr.
+Hello Hubert Blaine Wolfeschlegelsteinhausenbergerdorff Sr., welcome to my app.
 How old are you? 25
 So in the next 5 years, you will be 30 years old.
 Here's a list of fruits sorted alphabetically:
